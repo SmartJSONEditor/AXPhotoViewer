@@ -10,7 +10,7 @@ let package = Package(
     targets: [
         .target(
             name: "AXPhotoViewer",
-            path: "Sources"
+            path: "Source"
         )
     ]
 )
